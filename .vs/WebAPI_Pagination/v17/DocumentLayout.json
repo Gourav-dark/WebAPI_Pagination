@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|c:\\gs_practice\\aspdotcore_practice\\webapi_pagination\\webapi_pagination\\wrappers\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|solutionrelative:webapi_pagination\\wrappers\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|c:\\gs_practice\\aspdotcore_practice\\webapi_pagination\\webapi_pagination\\helper\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|solutionrelative:webapi_pagination\\helper\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|c:\\gs_practice\\aspdotcore_practice\\webapi_pagination\\webapi_pagination\\services\\uriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|solutionrelative:webapi_pagination\\services\\uriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|c:\\gs_practice\\aspdotcore_practice\\webapi_pagination\\webapi_pagination\\services\\iuriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|solutionrelative:webapi_pagination\\services\\iuriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|c:\\gs_practice\\aspdotcore_practice\\webapi_pagination\\webapi_pagination\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|solutionrelative:webapi_pagination\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|c:\\gs_practice\\aspdotcore_practice\\webapi_pagination\\webapi_pagination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|solutionrelative:webapi_pagination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|c:\\gs_practice\\aspdotcore_practice\\webapi_pagination\\webapi_pagination\\wrappers\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|solutionrelative:webapi_pagination\\wrappers\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA962641-FCEE-4E65-A36E-6F0830A97FC3}|WebAPI_Pagination\\WebAPI_Pagination.csproj|c:\\gs_practice\\aspdotcore_practice\\webapi_pagination\\webapi_pagination\\filter\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 257,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UriService.cs",
+              "DocumentMoniker": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Services\\UriService.cs",
+              "RelativeDocumentMoniker": "WebAPI_Pagination\\Services\\UriService.cs",
+              "ToolTip": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Services\\UriService.cs",
+              "RelativeToolTip": "WebAPI_Pagination\\Services\\UriService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:10:03.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IUriService.cs",
+              "DocumentMoniker": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Services\\IUriService.cs",
+              "RelativeDocumentMoniker": "WebAPI_Pagination\\Services\\IUriService.cs",
+              "ToolTip": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Services\\IUriService.cs",
+              "RelativeToolTip": "WebAPI_Pagination\\Services\\IUriService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:09:13.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginationHelper.cs",
+              "DocumentMoniker": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Helper\\PaginationHelper.cs",
+              "RelativeDocumentMoniker": "WebAPI_Pagination\\Helper\\PaginationHelper.cs",
+              "ToolTip": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Helper\\PaginationHelper.cs",
+              "RelativeToolTip": "WebAPI_Pagination\\Helper\\PaginationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:13:13.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "WebAPI_Pagination\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "WebAPI_Pagination\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:09:52.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_Pagination\\Program.cs",
+              "ToolTip": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Program.cs",
+              "RelativeToolTip": "WebAPI_Pagination\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:10:43.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PaginationFilter.cs",
               "DocumentMoniker": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Filter\\PaginationFilter.cs",
               "RelativeDocumentMoniker": "WebAPI_Pagination\\Filter\\PaginationFilter.cs",
@@ -38,12 +119,11 @@
               "RelativeToolTip": "WebAPI_Pagination\\Filter\\PaginationFilter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T05:20:21.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T05:20:21.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "PagedResponse.cs",
               "DocumentMoniker": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Wrappers\\PagedResponse.cs",
               "RelativeDocumentMoniker": "WebAPI_Pagination\\Wrappers\\PagedResponse.cs",
@@ -56,20 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItemsController.cs",
-              "DocumentMoniker": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Controllers\\ItemsController.cs",
-              "RelativeDocumentMoniker": "WebAPI_Pagination\\Controllers\\ItemsController.cs",
-              "ToolTip": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\Controllers\\ItemsController.cs",
-              "RelativeToolTip": "WebAPI_Pagination\\Controllers\\ItemsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T05:09:52.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\GS_Practice\\AspDotCore_Practice\\WebAPI_Pagination\\WebAPI_Pagination\\DataAccess\\Models\\Item.cs",
               "RelativeDocumentMoniker": "WebAPI_Pagination\\DataAccess\\Models\\Item.cs",
@@ -77,8 +144,7 @@
               "RelativeToolTip": "WebAPI_Pagination\\DataAccess\\Models\\Item.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:32:19.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T04:32:19.813Z"
             }
           ]
         }

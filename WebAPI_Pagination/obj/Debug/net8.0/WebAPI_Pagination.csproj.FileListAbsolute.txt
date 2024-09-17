@@ -134,3 +134,4 @@ C:\GS_Practice\AspDotCore_Practice\WebAPI_Pagination\WebAPI_Pagination\obj\Debug
 C:\GS_Practice\AspDotCore_Practice\WebAPI_Pagination\WebAPI_Pagination\obj\Debug\net8.0\WebAPI_Pagination.pdb
 C:\GS_Practice\AspDotCore_Practice\WebAPI_Pagination\WebAPI_Pagination\obj\Debug\net8.0\WebAPI_Pagination.genruntimeconfig.cache
 C:\GS_Practice\AspDotCore_Practice\WebAPI_Pagination\WebAPI_Pagination\obj\Debug\net8.0\ref\WebAPI_Pagination.dll
+C:\GS_Practice\AspDotCore_Practice\WebAPI_Pagination\WebAPI_Pagination\obj\Debug\net8.0\WebAPI_Pagination.sourcelink.json
